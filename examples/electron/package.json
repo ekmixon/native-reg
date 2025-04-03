@@ -6,7 +6,7 @@
     "start": "electron main.js"
   },
   "dependencies": {
-    "electron": "^12",
+    "electron": "^33.4.8",
     "native-reg": "link:../.."
   }
 }
